@@ -1,5 +1,5 @@
 <template>
-  <nav class="nav_bar">
+  <nav class="nav-bar">
       <NavItem text="Serviços" to="/services" />
       <NavItem text="Sobre mim" to="/about" />
       <NavItem text="Cases" to="/cases" />

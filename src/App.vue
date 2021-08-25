@@ -15,6 +15,6 @@ export default defineComponent({
 
 <style lang="scss" scoped>
 .component {
-    margin: 0
+    margin: 0;
 }
 </style>
